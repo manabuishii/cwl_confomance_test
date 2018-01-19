@@ -26,5 +26,10 @@ log files collect with add `&> output.3.txt` to above command.
 3,1,./run_tests.sh -api test/api/test_cwl_conformance_v1_0.py:CwlConformanceTestCase.test_conformance_v1_0_3 &> output.3.txt
 ```
 
+All log files are [here](https://github.com/manabuishii/cwl_conformance_test/tree/master/galaxy/log)
+
+Indivisual one is like this
+
+* [output.3.txt](https://github.com/manabuishii/cwl_conformance_test/blob/master/galaxy/log/output.3.txt) 
 
 
