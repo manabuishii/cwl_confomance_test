@@ -3,6 +3,18 @@ About cwl conformance test
 
 # Galaxy CWL conformance test and log
 
+## How to setup
+
+See Detail [Implement a subset of the Common Workflow Language\. by jmchilton · Pull Request \#47 · common\-workflow\-language/galaxy](https://github.com/common-workflow-language/galaxy/pull/47)
+
+```
+% git clone https://github.com/common-workflow-language/galaxy.git
+% cd galaxy
+% git checkout cwl-1.0
+```
+
+# Results
+
 I put only result.txt and log files
 
 [result.txt](https://github.com/manabuishii/cwl_conformance_test/blob/master/galaxy/result.txt) looks like this
