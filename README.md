@@ -5,7 +5,9 @@ About cwl conformance test
 
 ## How to setup
 
-See Detail [Implement a subset of the Common Workflow Language\. by jmchilton · Pull Request \#47 · common\-workflow\-language/galaxy](https://github.com/common-workflow-language/galaxy/pull/47)
+See Detail :
+
+* [Implement a subset of the Common Workflow Language\. by jmchilton · Pull Request \#47 · common\-workflow\-language/galaxy](https://github.com/common-workflow-language/galaxy/pull/47)
 
 ```
 % git clone https://github.com/common-workflow-language/galaxy.git
